@@ -1,4 +1,4 @@
-- Hi, I’m @yeric17
+Hi, I’m @yeric17
 
 I'm a Game and web developer
 
