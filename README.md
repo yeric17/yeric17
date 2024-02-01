@@ -22,4 +22,4 @@ experience in data analysis and structuring
 ![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-2173F7?style=flat&logo=css3)
 ![Svelte](https://img.shields.io/badge/-Svelte-ffffff?style=flat&logo=svelte)
-![Angular](https://img.shields.io/badge/-React-ffffff?style=flat&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-ffffff?style=flat&logo=angular)
