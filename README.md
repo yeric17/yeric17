@@ -1,24 +1,78 @@
-<h1>Hi, I’m Yeric</h1>
+# **Carlos Yeric Fonseca Rios**
+### **Fullstack Software Developer (.NET | Angular | SQL Server)**  
+📍 Colombia  
+✉️ yeric17@gmail.com  
+🌐 https://yericdev.com  
+🔗 https://www.linkedin.com/in/yericfonseca/
 
-I am a Digital Arts Engineer with a focus on game development. I have one year of experience in software development and six years in structuring data for statistical projects. Currently, I work as a full-stack developer in the creation of web applications, where I am involved from data modeling to programming for web visualization.
+---
 
+## **Professional Summary**
+Fullstack Software Developer with **3+ years of experience** building scalable web applications using **.NET Core, Angular and SQL Server**.  
+Experienced in creating data-driven dashboards, optimizing internal processes, automating workflows and developing tools enhanced with artificial intelligence.
 
+My background in Digital Arts Engineering combines engineering, programming, and digital technology, giving me a strong foundation for delivering robust, user-centered and high-quality software solutions.
 
-<h2>Backend stack</h2>
+---
 
-![C#](https://img.shields.io/badge/-CSharp-8B3AA9?style=flat&logo=csharp)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)
+## **Professional Experience**
 
-<h2>Frontend stack</h2>
+### **Semi-Senior Software Developer**  
+**Ipsos** — *2022 – Present*
+- Fullstack development using **.NET Core 6+, Angular 12+ and SQL Server**.
+- Creation of **interactive dashboards** for advanced data analytics.
+- Development of automation tools and internal systems to improve efficiency.
+- Participation in architecture design, requirement analysis and deployment pipelines.
+- Implementation of reports, interfaces and visualization tools to support business decisions.
 
-![JS](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-2173F7?style=flat&logo=css3)
-![Svelte](https://img.shields.io/badge/-Svelte-ffffff?style=flat&logo=svelte)
-![Angular](https://img.shields.io/badge/-Angular-EE112D?style=flat&logo=angular)
+### **Scripting & Data Processing Assistant**  
+**Ipsos** — *2016 – 2022*
+- Development of **web questionnaires** using JavaScript, HTML and CSS.
+- Requirement analysis and scripting of interactive behaviors for market research tools.
+- Technical communication with internal clients to ensure quality and functionality.
+- Optimization and automation of data processing workflows.
 
-<h2>Game development stack</h2>
+---
 
-![Unity](https://img.shields.io/badge/-Unity-555555?style=flat&logo=unity)
-![C#](https://img.shields.io/badge/-CSharp-8B3AA9?style=flat&logo=csharp)
+## **Education**
+
+### **Bachelor of Engineering in Digital Arts (2015 – 2022)**
+A multidisciplinary program integrating engineering, programming, and digital technologies.  
+Relevant competencies applied to fullstack development:
+
+- **Programming and production of interactive applications and multimedia systems.**
+- Strong foundations in **software development**, system design and human–computer interaction.
+- Skills in **project management** and structured development processes.
+- Experience with technology-focused areas including multimedia, web development and digital systems.
+- Training in solving technical problems from engineering, creative and technological perspectives.
+
+This background enables me to approach Fullstack development with both technical depth and user-centered design thinking.
+
+---
+
+## **Technical Skills**
+
+### **Fullstack Development**
+- .NET Core / C#
+- Angular (TypeScript / JavaScript)
+- HTML, CSS
+- Entity Framework, Dapper
+- Serilog, MediatR
+
+### **Databases**
+- SQL Server, MySQL
+- Data modeling and schema design
+- Complex queries and stored procedures
+- Migrations and performance optimization
+
+### **DevOps & Tools**
+- Git, GitHub, GitHub Actions  
+- Jira, Agile methodologies
+
+### **Game Development (Complementary)**
+- Unity (C#)
+- Mechanics programming, animation and asset integration
+- AR/VR fundamentals
+
+## **Portfolio**
+🌐 https://yericdev.com
